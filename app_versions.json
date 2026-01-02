@@ -1,0 +1,8 @@
+{
+  "android": {
+    "latest_version_code": 4,
+    "latest_version_name": "2.0.1",
+    "apk_download_url": "https://github.com/bihindubulanjay/PathfinderX-Releases/releases/download/v2.0.1/app-release.apk",
+    "release_notes": "Security updates and bug fixes."
+  }
+}
